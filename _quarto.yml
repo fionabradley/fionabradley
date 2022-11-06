@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Fiona Bradley"
-  site-url: "https://www.fionabradley.com"
+  site-url: https://www.fionabradley.com
   description: "Fiona Bradley"
   navbar:
     right:

@@ -1,1 +1,1 @@
-Sitemap: fionabradley.com/sitemap.xml
+Sitemap: https://www.fionabradley.com/sitemap.xml
