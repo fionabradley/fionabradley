@@ -1,0 +1,19 @@
+---
+title: "About"
+about:
+  template: jolla
+  links:
+    - text: ORCiD
+      href: https://orcid.org/0000-0002-3622-2794
+    - icon: github
+      text: Github
+      href: https://github.com/fionabradley
+    - text: UWA Research
+      href: https://research-repository.uwa.edu.au/en/persons/fiona-bradley
+---
+
+Fiona Bradley is a PhD Candidate in the School of Social Studies (Political Science and International Relations) at the University of Western Australia, and Director Research & Infrastructure (Library) at UNSW Sydney.
+
+Fiona's research spans international relations, media, and technology. She focuses on human rights-based approaches to freedom of information and the role of transnational advocacy networks in influencing law and policy.
+
+Fiona's professional experience has included roles with global impact on the library and information profession, national influence, and lasting outcomes for library organisations and individuals.

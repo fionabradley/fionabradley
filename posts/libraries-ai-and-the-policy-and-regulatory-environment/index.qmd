@@ -1,0 +1,76 @@
+---
+title: "Libraries, AI, and the policy and regulatory environment"
+author: "Fiona Bradley"
+categories: [talks]
+editor: visual
+date: '2021-08-18'
+---
+
+## Libraries, AI, and the policy and regulatory environment
+
+*Talk presented at [WLIC2021](https://www.ifla-wlic2021.com/) 18 August 2021*
+
+> "...but A.I\
+> can solve all our problems\
+> but where do ethics go"\
+> Wang Leehom《A.I. 愛》
+
+We are already living in an algorithmic society. But, while we now understand more about bias in machine learning sets, the surveillance risks of smart cities and facial recognition ([Van Noorden, 2020](http://doi.org/10.1038/d41586-020-03187-3)), upload filtering and content moderation on social networks ([Gillespie, 2020](http://doi.org/10.1177/2053951720943234); [Llansó, 2020](http://doi.org/10.1177/2053951720920686)), policies and regulation are still emerging.
+
+Some of the key challenges in AI regulation are that:
+
+-   The intersection between AI, privacy, and human rights is still emerging. It is necessary to make the case for how AI impacts human rights as well as to address equity, ethics, and fairness.
+-   Laws are important, but other forms of regulation or influence apart from top-down rules are also key ([Moses, 2015](http://doi.org/10.5235/17579961.5.1.1)). These can include setting research agendas, funding, engagement in standards development, and geopolitical positioning ([Smuha, 2021](http://doi.org/10.1080/17579961.2021.1898300)).
+-   "AI" as a concept is as broad and difficult to define as "data", or "information", and thus cannot be readily confined to specific applications. This is evident in different approaches to regulation to date, whether risk-based, or sector-based.
+
+The current policy and regulatory landscape is evolving in multiple ways:
+
+-   Along broad values and rights-based lines: trustworthy, responsible, ethical AI are all terms describing a similar approach (Smuha, 2021) that in some cases are also evolving into more binding regulation. In Europe, for example, guidelines for trustworthy AI were adopted in 2019 and proposed harmonised rules for risk-based regulation in 2021 ([European Parliament, 2021](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0206)). Australia has developed a rights-based approach and adopted a voluntary AI and ethics framework ([Australian Human Rights Commission, 2021](https://tech.humanrights.gov.au/sites/default/files/2021-05/AHRC_RightsTech_2021_Final_Report.pdf); [Department of Industry, Science, Energy, and Resources, 2021](https://www.industry.gov.au/data-and-publications/))
+-   At the same time, AI has become a point of geopolitical positioning and competition between Europe, the US, and China and other countries that all seek to lead in AI innovation, and regulation (Smuha, 2021). This results in policies and plans that incorporate issues such as research investment, intellectual property, export controls, but that also seek to influence. China's New Generation Artificial Intelligence Development Plan incorporates ethical considerations, but also research funding and education ([Roberts et al., 2020](http://doi.org/10.1007/s00146-020-00992-2); [Wu et al., 2020](http://doi.org/10.1038/s42256-020-0183-4)). In Europe, the proposed regulation seeks to influence state and corporate behaviour ([Tanna, 2021](https://www.scl.org/articles/12278-the-eu-draft-ai-regulation-what-you-need-to-know-now)).\
+-   Other countries such as the US are pursuing a sectoral approach ([MacCarthy, 2020](https://www.brookings.edu/research/ai-needs-more-regulation-not-less/)). This reflects the vast difference between AI powered search engines (less risk), algorithmic decision-making by government ([Henriques-Gomes, 2021](http://www.theguardian.com/australia-news/2021/jun/11/robodebt-court-approves-18bn-settlement-for-victims-of-governments-shameful-failure)), and military applications (high risk).
+-   Bodies like the OECD and UNESCO are also looking at regulation across multiple countries (Smuha, 2021)
+-   And, there is renewed attention to other forms of regulation including technical and professional standards ([Rachovitsa, 2016](http://doi.org/10.1093/ijlit/eaw012); [Raymond & DeNardis, 2015](http://doi.org/10.1017/S1752971915000081)).
+
+So, what does all this mean for libraries? Regulation will shape the types of technologies available in different countries and industries, the ways that people can seek remedies if their rights are violated, and the societies that we will live in. In this context, it is not surprising that librarians have a range of views about AI, from embracing its potential to deep scepticism and alarm. Meanwhile, many vendors and startups based on library metadata are already promoting AI as part of their products. But there is not yet enough disclosure or transparency about how these features really work, nor what ethical standards vendors are holding themselves to. More debate is needed to build consensus about where the profession stands in relation to these issues, and it is important to incorporate existing national ethical AI frameworks into procurement decisions, and guidance about these issues to library users.
+
+In Australia, The Australian Library and Information Association (ALIA) responded to the consultation on Australia's voluntary AI framework observing that AI provides opportunities for service improvement as well as potential threats. They noted that, "Library and information professionals will need training and ongoing learning to enable us to understand and apply principles for ethical AI in our business practices."([Australian Library and Information Association, 2019](https://consult.industry.gov.au/strategic-policy/artificial-intelligence-ethics-framework/consultation/view_respondent?show_all_questions=0&sort=submitted&order=ascending&_q__text=library&uuId=616546801)). According to current ALIA guidelines, entry-level librarians in Australia are expected to know about AI and ML.
+
+High profile failures in algorithmic decision-making by government means that some of the potential risks associated with these technologies are already widely known in Australia. A massive failure that became known as "Robodebt" used algorithmic decision-making to identify people who received money from Centrelink, a government public benefit program, and incorrectly matched their information with other datasets in the Australian Taxation Office. As a result, hundreds of thousands of people received letters falsely stating that they owed huge debts to the government. In June 2021, a \$1.8 billion settlement was reached to resolve the matter (Henriques-Gomes, 2021).
+
+There is also a very large program of research work on algorithmic fairness in Australia from a wide range of perspectives. These include the ARC Centre of Excellence for Automated Decision-Making and Society (ADM+S), and a significant report on Human Rights and Technology released in 2021 which recommends accountability mechanisms for government and corporations, and compliance with anti-discrimination laws to promote algorithmic fairness (Australian Human Rights Commission, 2021).
+
+Incorporating these national level recommendations provides a robust foundation for the ways in which libraries can contribute to a more fair society and work with vendors to protect user privacy.
+
+## References
+
+Australian Human Rights Commission. (2021). Human rights and technology. Retrieved from <https://tech.humanrights.gov.au/sites/default/files/2021-05/AHRC_RightsTech_2021_Final_Report.pdf>
+
+Australian Library and Information Association. (2019). Australia's AI Ethics Framework Response 616546801. Retrieved from <https://consult.industry.gov.au/strategic-policy/artificial-intelligence-ethics-framework/consultation/view_respondent?show_all_questions=0&sort=submitted&order=ascending&_q__text=library&uuId=616546801>
+
+Department of Industry, Science, Energy and Resources. (2021, 17 June 2021). Australia's AI Ethics Principles. Department of Industry, Science, Energy and Resources. Retrieved from <https://www.industry.gov.au/data-and-publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles>
+
+European Parliament. (2021, 21 April 2021). Proposal for a Regulation of The European Parliament and of the Council Laying Down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending Certain Union Legislative Acts. EUR-Lex. Retrieved from <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0206>
+
+Gillespie, T. (2020). Content moderation, AI, and the question of scale. Big Data & Society, 7(2), 205395172094323. <doi:10.1177/2053951720943234>
+
+Henriques-Gomes, L. (2021, 11 June 2021). Robodebt: court approves \$1.8bn settlement for victims of government's 'shameful' failure. The Guardian. <http://www.theguardian.com/australia-news/2021/jun/11/robodebt-court-approves-18bn-settlement-for-victims-of-governments-shameful-failure>
+
+Llansó, E. J. (2020). No amount of "AI" in content moderation will solve filtering's prior-restraint problem. Big Data & Society, 7(1), 2053951720920686. <doi:10.1177/2053951720920686>
+
+MacCarthy, M. (2020, 2020/03/09/). AI needs more regulation, not less. Retrieved from <https://www.brookings.edu/research/ai-needs-more-regulation-not-less/>
+
+Moses, L. B. (2015). How to Think about Law, Regulation and Technology: Problems with 'Technology' as a Regulatory Target. Law, Innovation and Technology, 5(1), 1-20. <doi:10.5235/17579961.5.1.1>
+
+Rachovitsa, A. (2016). Engineering and lawyering privacy by design: understanding online privacy both as a technical and an international human rights issue. International Journal of Law and Information Technology, 24(4), 374-399. <doi:10.1093/ijlit/eaw012>
+
+Raymond, M., & DeNardis, L. (2015). Multistakeholderism: anatomy of an inchoate global institution. International Theory, 7(3), 572-616. <doi:10.1017/S1752971915000081>
+
+Roberts, H., Cowls, J., Morley, J., Taddeo, M., Wang, V., & Floridi, L. (2020). The Chinese approach to artificial intelligence: an analysis of policy, ethics, and regulation. Ai & Society, 36(1), 59-77. <doi:10.1007/s00146-020-00992-2>
+
+Smuha, N. A. (2021). From a 'race to AI' to a 'race to AI regulation': regulatory competition for artificial intelligence. Law, Innovation and Technology, 13(1), 57-84. <doi:10.1080/17579961.2021.1898300>
+
+Tanna, M. (2021, 2021/06/04/). The EU Draft AI Regulation: what you need to know now. Retrieved from <https://www.scl.org/articles/12278-the-eu-draft-ai-regulation-what-you-need-to-know-now>
+
+Van Noorden, R. (2020). The ethical questions that haunt facial-recognition research. Nature, 587(7834), 354-358. <doi:10.1038/d41586-020-03187-3>
+
+Wu, F., Lu, C., Zhu, M., Chen, H., Zhu, J., Yu, K., . . . Pan, Y. (2020). Towards a new generation of artificial intelligence in China. Nature Machine Intelligence, 2(6), 312-316. <doi:10.1038/s42256-020-0183-4>

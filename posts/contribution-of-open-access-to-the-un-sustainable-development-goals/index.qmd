@@ -1,0 +1,138 @@
+---
+title: "Contribution of open access to the UN Sustainable Development Goals"
+author: "Fiona Bradley"
+categories: [talks]
+editor: visual
+date: '2021-08-31'
+---
+
+## Contribution of open access to the UN Sustainable Development Goals
+
+*Talk presented to [Open Access Australasia](https://oaaustralasia.org/), 31 August 2021*
+
+In September 2015, after more than three years of negotiations the Member States of the United Nations adopted the [UN 2030 Agenda for Sustainable Development](https://sdgs.un.org/2030agenda). The Agenda is an inclusive, integrated framework of 17 Sustainable Development Goals (SDGs) spanning economic, environmental and social development. They lay out a plan for all countries to actively engage in making our world better for its people and the planet.
+
+The UN 2030 Agenda is a political commitment, which means that everyone, including libraries and civil society, has a role in making sure all countries meet the goals and leave no one behind. The outcomes are not legally binding. However, the monitoring and follow-up process is taken seriously, and includes both thematic and voluntary national reviews every year as part of the [UN High-Level Political Forum](https://sustainabledevelopment.un.org/hlpf).
+
+There are two things I want you to keep in mind throughout this presentation:
+
+-   Agenda 2030 is more than the SDGs
+-   The purpose of the SDGs or Agenda 2030 is for *UN Member States* to achieve the Goals
+
+## Origins of the SDGs
+
+A little bit of the backstory about where the new Agenda came from helps set the context for what the UN is trying to achieve.
+
+Before the SDGs came the [Millennium Development Goals](https://www.un.org/millenniumgoals/) that ended in 2015. Success in achieving the MDGs was very mixed. As the UN neared the end of the MDG process, various conferences and documents began to lay the groundwork to negotiate the next process. Starting in 2012, this became known as the ["post-2015 process"](https://sustainabledevelopment.un.org/post2015). From the outset, the post-2015 process was intended to be much more inclusive than the MDGs, which were very top-down.
+
+This meant that civil society would be able to play a much bigger role than before in advocacy and helping to shape the new goals. Over three years, this was an extremely intensive and political process.
+
+[Libraries got involved in the process early on](https://doi.org/10.1177/0340035216647393). IFLA took the lead as they have [consultative status with ECOSOC](https://www.un.org/ecosoc/en/ngo/consultative-status) which means they are allowed to register to participate in UN meetings as part of the civil society delegation. The work was largely led by a couple of staff at IFLA in close collaboration with the Board, and two US-based Governing Board members who could attend all the UN meetings in New York.
+
+I'm able to share this origin story with you because I was one of those staff members and my job was to respond to consultations, [prepare briefings for Ministers](https://www.ifla.org/news/cape-town-declaration-2015/), [build coalitions with other NGOs](https://web.archive.org/web/20210505163228/https://www.ifla.org/node/8378), train librarians to respond in their own countries, and write [advocacy toolkits](https://repository.ifla.org/handle/123456789/243). And I also got my turn to attend sessions at the UN in New York, and other conferences with stakeholders and Ministers. It was a huge amount of work, but a lot of fun too.
+
+So why did libraries get involved so early? Past experience had shown that the process matters: documents and positions are built up over many iterations and a long period of time. If we wanted our issues to be part of the agenda, libraries needed to have a seat at the table from the start. The other reason is that the 2030 Agenda would have some influence in shaping where governments allocate their attention and resources, and this was a huge opportunity to build the case for investing in access to information and libraries that colleagues could call on in their country.
+
+## Outcomes
+
+At the end of all this advocacy, there are three key achievements in the 2030 Agenda that are relevant to access to information and open access specifically:
+
+-   First, universal literacy is recognised in the vision for the UN 2030 Agenda.
+
+-   Second, working in collaboration with a huge range of civil society partners and UN Member States, access to information was recognised in the SDGs \[Goal 16 Target 16.10\]: "Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements".
+
+-   And, third, with the support of colleagues in a few key countries indicator 16.10.2 "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information". The indicators matter because these help to track progress towards meeting the Goals.
+
+Apart from access to information, libraries were also strong supporters of targets for access to the internet and ICTs, and culture. Both of which in turn also contribute to open access, because without access to the internet you cannot access information online, and without culture you cannot recognize the value of local and multilingual knowledge.
+
+## Framing access to information
+
+The 17 SDGs address issues like land, water, poverty, education, and industry. Some of these are less controversial than others. The Goal on Peace and Justice was more challenging for Member States to agree on, and for a time was at risk of being dropped entirely. The language about public access to information changed multiple times. An additional challenge is that many civil society organisations define access to information only in the context of Right to Information laws or Freedom of Information but it was really critical that it consider access more broadly. The rationale for this was set out in the [Lyon Declaration on Access to Information and Development](https://www.lyondeclaration.org/). It was a great success that it was finally adopted in the form you see today.
+
+You might have noticed some words are not included in any of these statements. Nowhere are there any words about libraries, or open access. That's because in a process as high-level and consensus-driven as this one, you have to identify language and terms that will get other stakeholders on board. There's also a lot of advocacy to get other NGOs, media organisations, rights activists on board before you can make the case to government. The key is then to use those coalitions to advocate for what you want to achieve more specifically.
+
+This framing and language about access to information also sits within a larger human rights-based context. Many NGOs and campaigners work on issues like freedom of expression and access to information, and have argued that access to information is necessary to democracy and underpins all other rights. So you can hear echoes of that approach when we talk about things like access to information and open access underpinning the achievement of all the other goals.
+
+## The contribution of open access to the SDGs
+
+While the 2030 Agenda does not include the phrase open access, it has an obvious connection to target 16.10. Public access to information through means such as open access helps people to exercise their civil and political rights, be economically active, learn new skills, enrich cultural identity, and take part in decisionmaking (as outlined in the [Lyon Declaration](https://www.lyondeclaration.org/)).
+
+However, as I mentioned before, the 2030 Agenda is broader than the SDGs and includes a range of related processes to monitoring, financing, and partnerships to support the Goals. In other words, who is going to pay for it, and how will we know when the Goals have been met.
+
+The UN recognised that research and data were critical to this understanding. In 2015, UN recommended the development of an open access knowledge platform to bring together the scientific knowledge that underpins the SDGs. [IFLA welcomed this recommendation at the time](https://www.ifla.org/wp-content/uploads/2019/05/assets/hq/topics/libraries-development/documents/ifla_response_to_addis_ababa_agenda_for_action.pdf), and it's very encouraging that the [platform](https://tfm2030connect.un.org/) is now under development and harvests research from existing Open Access repositories as well as and UN agencies. This demonstrates high-level, global recognition of the value of open access in meeting global challenges.
+
+This example also highlights that although the SDGs are the part of the 2030 Agenda most people know best, all parts of the Agenda are relevant. Not many people would have expected open access (or in UN language, Technology Facilitation Mechanism) to turn up in the discussions in Addis Ababa about what it would cost to implement the SDGs.
+
+Since the SDGs were adopted, we've seen great strides in open access and open science in intergovernmental agencies, many of which have adopted [open access policies](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/ERI/pdf/oa_policy_rev2.pdf) and [licences](https://wiki.creativecommons.org/wiki/Intergovernmental_Organizations) for their own outputs, the growth of [UN data platforms](https://data.un.org/), and also the [draft recommendation on open science at UNESCO](https://en.unesco.org/science-sustainable-future/open-science/recommendation). This is fantastic progress in a short period of time.
+
+## How much progress has been made since 2015?
+
+That's the background to the process and what was achieved in 2015, and some of the high-level achievements in open access since that time. We're now five years in with less than a decade until 2030. What else has been achieved since then?
+
+The monitoring process is a critical part of identifying whether UN Member States are on track to meet the goals.
+
+Stepping back a little bit from the SDGs specifically, indicators and data are a critical way that civil society can hold governments to account for progress on any number of issues. In the human rights and access to information space, there are numerous reports that track progress on press freedom, access to the internet, regime types and so on. For example, these include [Freedom in the World report](https://freedomhouse.org/report/freedom-world) from Freedom House, [World Press Freedom Index](https://rsf.org/en/ranking_table) statistics. There are also data compiled by intergovernmental organisations from official statistics, such as the [ITU](https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx) that tracks mobile phone and internet access, and the [World Bank Governance Indicators](https://info.worldbank.org/governance/wgi/). While it might seem that we are awash in research reports and open data from everywhere, at the start of the SDGs the UN was concerned that many countries still lacked the ability to provide data on basic information such as the number of births in their country. That type of very basic gap means that it is very difficult to identify who needs services.
+
+So this is why monitoring and data has become a very important part of the process. Without data, we cannot really understand whether progress has been made. Different UN agencies are responsible for monitoring the 232 indicators in the SDGs. The main event where these data are reported are the annual [UN High-Level Political Forum](https://sustainabledevelopment.un.org/hlpf).
+
+So knowing that one of the main activities of some civil society organisations is to produce data and reports, that's exactly what many have done for the SDGs to help complement official statistics and reports. For example, I helped to establish the [Development and Access to Information report, DA2I](https://da2i.ifla.org/). But many groups also contribute directly to the official monitoring processes which are called [Voluntary National Reviews](https://sustainabledevelopment.un.org/vnrs/) and thematic reviews.
+
+Everyone can make a direct contribution to sharing their story about how open access makes a difference as part of this process. For example, [ALIA](https://read.alia.org.au/sustainable-development-goals), [LIANZA](https://www.librariesaotearoa.org.nz/korero-blog/libraries-and-sdgs-an-update), and [CAUL](https://www.caul.edu.au/news/australian-university-libraries-and-united-nations-sustainable-development-goals-sdgs) have been active in this topic on behalf of libraries in Australia and Aotearoa New Zealand. This advocacy has paid off with libraries recognised in [Australia's first National Voluntary Review](https://sdgs.org.au/wp-content/uploads/2018/06/AustralianVNR_2018_final.pdf), libraries were also a part of the people's review in New Zealand.
+
+Groups of countries are asked to report back on their progress each year. IFLA recently analysed the [Voluntary National Reviews submitted to date](https://www.ifla.org/publications/libraries-engaged-in-voluntary-national-reviews-vnrs/), and found that nearly half of the reports presented in 2021 mentioned libraries or information. This shows just how possible it is to make impact at a high level, and how useful and important it is that if you are working on the SDGs to ensure you share your stories.
+
+A [story](https://librarymap.ifla.org/storytelling-manual) could be very big, or it could be much more local. It's the impact that matters. For example, stories about open access might look at how access to research helped identify existing treatments that would be useful for COVID19, or make more visible neglected tropical diseases that lack sufficient funding and attention. It could look at how open access supports student start ups, or how a researcher at your institution was able to reach more readers in different countries than before. Your story could be about the difference your whole library makes, or the impact of one researcher, or one discovery, on the lives of others.
+
+Back in 2015, I would sometimes hear that access to information had been solved and was not a problem anymore. This was because everyone has a phone, and lots of countries have Right to Information legislation. But as librarians, we know that the digital divide and gaps in literacy skills exist in every library, community, and country. Since 2015, we have seen the rise of misinformation and disinformation as key concerns in elections, and around the COVID-19 pandemic. Open access and rapid access to scientific outputs from preprints through to published articles and data have become a key means of ensuring people have access to facts and quality information.
+
+At the local level, using stories, libraries globally have embraced the Goals and incorporated them into their work. It's so rewarding that to see that so many libraries now are engaged with the SDGs when all this started with a very small group of people to build the case for libraries, grow advocates, and provide reusable resources for others to adapt and build on.
+
+Much of this work has involved mapping stories to the goals and showing how open access and access to information underpin each of the Goals in different communities. This is a fantastic way to raise awareness about the role of the Goals in each of our daily lives. Many universities have adopted strategies around Grand Challenges or [undertaking research that supports the SDGs](https://ap-unsdsn.org/regional-initiatives/universities-sdgs/university-sdg-guide/), and this is also a great way to show the impact of research and open access.
+
+But I would also encourage you to go further to share these stories with CAUL, CONZUL, ALIA, LIANZA, and IFLA. It's so critical to have more of these stories and data at the national level as the official monitoring process continues.
+
+## What are the SDGs for?
+
+This is important to remember too because it's important to keep a focus on what the SDGs are for.
+
+In addition to all the official data and reports, and contributions from civil society, in relation to open access and research we've seen that all of the main bibliographic tools have mapped research in their indexes to the Goals. Combined with open access filters, this may be useful in getting a sense of how a country or institution's output maps to the goals, and is similar to an overview of research by FoR code. It can also be useful to identify resources to learn more about different aspects of the SDGs.
+
+But, just my opinion, there are also some activities that perhaps aren't quite as useful, and that can divert energy away from more meaningful activities. For example, Times Higher Education's Impact Ranking "are the only global performance tables that assess universities against the United Nations' Sustainable Development Goals (SDGs)." But unfortunately, the ranking is a missed opportunity to show just how much universities contribute to open access, research, and their communities as it has no meaningful alignment with any official monitoring or review process.
+
+In addition to that major gap, there are some other omissions. Goal 16 would have been a perfect opportunity to include open access, [but it is missing](https://www.timeshighereducation.com/sites/default/files/breaking_news_files/the_impactrankings_methodology_2021_v1.3_final.pdf). But other areas could have referenced open access too - one of the key measures under innovation is Patents citing university research (15.4%). No Poverty has a measure looking at co-authorship with researchers in low income countries. but again, nothing about open access to research. Sustainable Cities and Communities has the closest indicator that could possibly include open access, concerning public access to libraries: "Provide public access to libraries including books and publications".
+
+So once again, what are the SDGs for? They are not an exercise to rank institutions on how we are doing, but a means of ensuring no one is left behind, and that governments meet their commitments by investing in policies and services that make a difference in people's lives and that support the planet.
+
+## Monitoring progress of open access - official and unofficial sources
+
+Let's turn to how open access is tracking in the 2030 Agenda.
+
+We can look at data collected by UNESCO, [which is the custodian for 16.10](https://en.unesco.org/news/access-information-gets-upgrade-sdg-indicators-framework) (access to information) data.
+
+We can look at third-party data such as open access rates by country over the last few years. The [Leiden Ranking](https://www.leidenranking.com) and various bibliographic databases can source this data.
+
+Plus the subsequent development of instruments like the UNESCO Recommendation on Open Science show just how much commitment and interest there is in open access among governments and UNESCO.
+
+A few other sources of official and unofficial SDG and open access data for national level reporting could include:
+
+-   [Our World in Data SDG Tracker](https://sdg-tracker.org/peace-justice#16.10.2)
+-   [IFLA and TASCHA DA2I dashboards](https://da2i.ifla.org/da2i-dashboards/)
+-   [TAP Network SDG Accountability Report](https://www.sdgaccountability.org/report/)
+
+Each year the UN prepares a narrative report on progress towards the Goals. There has been [some progress](https://unstats.un.org/sdgs/report/2020/goal-16/) on areas related to open access, access to information and data, but also remaining challenges. The [most recent report on data](https://unstats.un.org/sdgs/report/2021/note-to-reader/) under Goal 17 notes the contributions of civil society, the private sector and academia, but that there are many gaps still.
+
+You can also [dig into the datasets](https://unstats.un.org/sdgs/indicators/database/) to get a sense of progress. If you want a readymade sense of progress, there's the [UN stats progress charts](https://unstats.un.org/sdgs/report/2021/progress-chart-2021.pdf) which has a series of dials to track how things are going. Unfortunately not all indicators are reported on every year, but I think you will get a sense of the challenges from this year's report on Goal 16 to see that overall the picture is very mixed. Sadly many indicators are going backwards. Press freedom, internet access are challenges in many countries. Over half the world is still offline.
+
+## Sharing your stories
+
+If you are interested to get more involved in looking at how to measure your own contribution to the SDGs, where should you start? It's really important to remember that the relative importance of different goals varies widely between countries, and even institutions. I often describe the SDGs as just one tool in your toolkit that is more relevant for some advocacy purposes than others. You must consider who you are speaking to and consider whether or not the SDGs are relevant in your context.
+
+So with that in mind, I spoke earlier about the stories you can tell and the data available from different sources to make the case. There is a huge amount of resources and documentation now, I would suggest starting by looking at:
+
+-   Your own library's plans and objectives - there are a couple of libraries that have already mapped their work in this way
+-   Your institution's strategic plan, particularly if they mention global challenges or the SDGs
+-   ALIA, LIANZA, CAUL, CONZUL resources
+-   [SDSN Universities guide](https://ap-unsdsn.org/regional-initiatives/universities-sdgs/university-sdg-guide/)
+-   [IFLA for the global perspective](https://www.ifla.org/take-action/)
+
+Work with other people to gather stories, data, and think about how you will communicate it. I encourage you to get engaged with the SDGs and other activities like the UNESCO draft recommendation on Open Science to keep the pressure on to make the most of opportunities at every level locally and nationally to show the difference libraries, information, and open access makes. As librarians we live the SDGs every day: we innovate, we educate, we support sustainability, and equity -- the SDGs are not just a report card, they are at the heart of what we do. It's up to us now to tell others about it.
