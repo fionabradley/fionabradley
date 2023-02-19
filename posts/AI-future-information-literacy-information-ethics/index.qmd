@@ -1,5 +1,5 @@
 ---
-title: "AI-future-information-literacy-information-ethics"
+title: "AI and the future of information literacy and information ethics"
 author: "Fiona Bradley"
 categories: [writing]
 editor: visual
