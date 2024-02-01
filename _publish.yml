@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: e4760d7c-cdaf-44dc-a8cc-7ba2e6c1bf0f
+      url: 'https://glittering-madeleine-95dec3.netlify.app'
